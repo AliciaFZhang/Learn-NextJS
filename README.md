@@ -1,3 +1,5 @@
+This is a food ordering application created with Next.js following the youtube tutorials kindly shared by Lama Dev: [Food Ordering App UI Design Using React Next.js | Responsive Restaurant Website](https://www.youtube.com/watch?v=vIxGDq1SPZQ&ab_channel=LamaDev).
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
